@@ -1,0 +1,7 @@
+C:\Users\alyssa\source\repos\Laboratory Activity 29\bin\Debug\Laboratory Activity 29.exe.config
+C:\Users\alyssa\source\repos\Laboratory Activity 29\bin\Debug\Laboratory Activity 29.exe
+C:\Users\alyssa\source\repos\Laboratory Activity 29\bin\Debug\Laboratory Activity 29.pdb
+C:\Users\alyssa\source\repos\Laboratory Activity 29\obj\Debug\Laboratory Activity 29.csproj.AssemblyReference.cache
+C:\Users\alyssa\source\repos\Laboratory Activity 29\obj\Debug\Laboratory Activity 29.csproj.CoreCompileInputs.cache
+C:\Users\alyssa\source\repos\Laboratory Activity 29\obj\Debug\Laboratory Activity 29.exe
+C:\Users\alyssa\source\repos\Laboratory Activity 29\obj\Debug\Laboratory Activity 29.pdb
